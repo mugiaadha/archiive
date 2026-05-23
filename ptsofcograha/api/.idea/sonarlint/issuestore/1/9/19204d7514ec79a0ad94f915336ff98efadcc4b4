@@ -1,0 +1,15 @@
+
+„
+java:S1488~"gImmediately return this expression instead of assigning it to the temporary variable "nilaiPajakMotor".(¸šŽÂ8»‡·»Ï1
+]
+java:S2184~"@Cast one of the operands of this integer division to a "double".(¸šŽÂ8¦ê¼»Ï1
+]
+java:S2184~"@Cast one of the operands of this integer division to a "double".(¸šŽÂ8¦ê¼»Ï1
+^
+java:S1854}"<Remove this useless assignment to local variable "pkbMobil".(œ‰¿Òúÿÿÿÿ8Þ‡·»Ï1
+R
+java:S1481z"0Remove this unused "jumlahMobil" local variable.(Õ¾ü€ÿÿÿÿÿ8ß‡·»Ï1
+R
+java:S1481{"0Remove this unused "jumlahMotor" local variable.(ÝÚÍ¤ÿÿÿÿÿ8ß‡·»Ï1
+O
+java:S1481}"-Remove this unused "pkbMobil" local variable.(œ‰¿Òúÿÿÿÿ8ß‡·»Ï1
